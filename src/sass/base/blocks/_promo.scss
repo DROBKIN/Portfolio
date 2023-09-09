@@ -22,12 +22,13 @@
         justify-content: space-between;
         margin-top: 25px;
     }
-    &__link {
+    &__link  {
         color: $white-color;
         text-decoration: none;
-        &:hover {
-            color: rgb(148, 41, 143);
-        }
+        transition: 0.4s all;
+            &:hover {
+                color: rgb(44, 76, 145);
+                text-shadow: 2px 3px 20px rgba(206,89,55,0)
+            }  
     }
-
 }
