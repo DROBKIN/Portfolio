@@ -16,7 +16,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "main": "gulpfile.js",
-  "homepage": "https://DROBKIN.github.com/portfolio",
+  "homepage": "https://DROBKIN.github.io/portfolio",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
